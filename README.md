@@ -53,6 +53,10 @@ The database contains 3,741 distinct aircraft models and fields for most records
 | Utility | Service aircraft |
 | Military | Combat aircraft |
 
+The distinction between the aircraft body types was made according to what we felt would best fit it. Narrow aircraft differed from Regional ones by having 4-or-more abreast seating. The Utility type was introduced after a lot of the database was already complete, so if you feel like any of the aircraft are incorrectly categorized, please let us know. 
+
 # License
 
 This database is published under the [Creative Commons Attribution Non-Commercial ShareAlike](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode). You can share and modify the work as you wish (we'd be excited to know what you do with it!), but the CFR Aircraft Engines Database must be attributed and the new works must be used non-commercially and under a similar license.
+
+# Contributing
