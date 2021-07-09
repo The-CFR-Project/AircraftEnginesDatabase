@@ -1,5 +1,5 @@
 # The CFR Aircraft Engines Database
-This repository contains a manually-collected database giving engine and body type information for 3,741 aircraft models.
+This repository contains a manually-collected database giving engine and body type information for 3,741 aircraft models. The aircraft model and type information was collected from [What is flying?](https://github.com/jbroutier/whatisflying-db) and the CFR team worked to source the other fields in this database from documents such as the FAA Type Certificates or websites such as Wikipedia.
 
 # Database Structure
 
