@@ -19,7 +19,7 @@ The `aircraft_engines.csv` file contains the following data:
 | body_type | string | The aircraft's body type | Wide
 | max_seats | string | The maximum number of seats in the aircraft | 440
 
-The database contains an additional 3 fields: `engine_source`, `max_seats_source`, and `contributer`. The first 2 contains URLs to where the data was sourced from while the contributer column credits who added in the vaues. Some aircraft contain multiple engines and engine manufacturers and the values for those aircraft were separated using semicolons. For example:
+The database contains an additional 3 fields: `engine_source`, `max_seats_source`, and `contributor`. The first 2 contains URLs to where the data was sourced from while the contributor column credits who added in the vaues. Some aircraft contain multiple engines and engine manufacturers and the values for those aircraft were separated using semicolons. For example:
 
     O-320-B2A;O-320-B2B
 
