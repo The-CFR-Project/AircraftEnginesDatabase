@@ -45,7 +45,7 @@ The database contains 3,741 distinct aircraft models and fields for most records
 
 | body_type | description |
 | --------- | ----------- |
-| Helicopter| ALL helciopters |
+| Helicopter| ALL helicopters |
 | UAV | Unmanned Arial Vehicle |
 | Private   | Small, private aircraft |
 | Regional | Short distance, commercial aircraft |
